@@ -14,6 +14,10 @@ h5{
     text-align: center;
 }
 
+h1{
+    text-align: center;
+}
+
 div.box1{
     background-color: lightgrey;
     width: 900px;
