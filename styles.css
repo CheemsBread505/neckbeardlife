@@ -26,3 +26,8 @@ div.box1{
     margin: 20px;
     margin: auto;
 }
+
+#gif1{
+    margin-left: auto;
+    display: block;
+}
